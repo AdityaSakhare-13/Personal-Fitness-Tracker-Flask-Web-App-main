@@ -111,8 +111,8 @@ python app.py
 
 ## 📞 Contact & Support
 🙋‍♂️ For queries or feature requests, feel free to reach out!  
-📧 Email: [yashtilekarki647@gmail.com](mailto:yashtilekarki647@gmail.com)  
-🔗 GitHub: [YashTilekar647](https://github.com/YashTilekar647)  
+📧 Email: [sakhareaditya203@gmail.com](mailto:sakhareaditya203@gmail.com)  
+🔗 GitHub: [AdityaSakhare-13](https://github.com/AdityaSakhare-13)  
 
 ---
 
